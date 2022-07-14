@@ -1,0 +1,25 @@
+{
+  "name": "character-filter",
+  "version": "1.0.2",
+  "description": "Filter/remove characters from a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/architelos/character-filter.git"
+  },
+  "keywords": [
+    "characters",
+    "string",
+    "filter",
+    "remove"
+  ],
+  "author": "architelos",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/architelos/character-filter/issues"
+  },
+  "homepage": "https://github.com/architelos/character-filter#readme"
+}
